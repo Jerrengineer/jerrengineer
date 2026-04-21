@@ -1,11 +1,11 @@
 <h1>Hi I'm Jerry Nuriansyah</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0E75B6&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0E75B6&vCenter=true&width=600&lines=Full+stack+Developer;React+%7C+Next.js+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
 </p>
 
 <h3>
-Frontend Developer • Building clean and modern web experiences
+Full Stack Developer • Building clean and modern web experiences
 </h3>
 
 <p>
@@ -65,10 +65,3 @@ Currently focusing on React, Next.js, and improving my full-stack development sk
 
 ---
 
-<h2> Current Focus</h2>
-
-<p>
-🚀 Building real-world projects with React & Next.js  
-📚 Learning frontend architecture & performance optimization  
-🎯 Improving UI/UX for better user experience  
-</p>
