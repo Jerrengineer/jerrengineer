@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Jerry Nuriansyah</h1>
+<h1>Hi I'm Jerry Nuriansyah</h1>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0E75B6&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
@@ -14,7 +14,7 @@ Frontend Developer • Building clean and modern web experiences
 
 ---
 
-<h2>🚀 About Me</h2>
+<h2> About Me</h2>
 
 <p>
 I am a passionate frontend developer from Indonesia who loves building modern, responsive, and user-friendly web applications.  
@@ -65,18 +65,10 @@ Currently focusing on React, Next.js, and improving my full-stack development sk
 
 ---
 
-<h2>🔥 Current Focus</h2>
+<h2> Current Focus</h2>
 
 <p>
 🚀 Building real-world projects with React & Next.js  
 📚 Learning frontend architecture & performance optimization  
 🎯 Improving UI/UX for better user experience  
-</p>
-
----
-
-<h2>✨ Quote</h2>
-
-<p>
-"Consistency beats talent when talent doesn't work hard."
 </p>
