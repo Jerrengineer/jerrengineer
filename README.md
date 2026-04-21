@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Jerry Nuriansyah</h1>
+<h1 align="center">Hi 👋, I'm Jerry Nuriansyah</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
+</p>
 
 <h3 align="center">
 Frontend Developer • Building clean and modern web experiences
@@ -14,7 +18,7 @@ Frontend Developer • Building clean and modern web experiences
 
 <p align="center">
 I am a passionate frontend developer from Indonesia who loves building modern, responsive, and user-friendly web applications.  
-Currently focusing on improving my skills in React, Next.js, and full-stack development.
+Currently focusing on React, Next.js, and improving my full-stack development skills.
 </p>
 
 ---
@@ -65,8 +69,8 @@ Currently focusing on improving my skills in React, Next.js, and full-stack deve
 
 <p align="center">
 🚀 Building real-world projects with React & Next.js  
-📚 Learning deeper about frontend architecture  
-🎯 Improving UI/UX and performance optimization  
+📚 Learning frontend architecture & performance optimization  
+🎯 Improving UI/UX for better user experience  
 </p>
 
 ---
