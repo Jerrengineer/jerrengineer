@@ -1,7 +1,7 @@
 <h1>Hi I'm Jerry Nuriansyah</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0E75B6&vCenter=true&width=600&lines=Full+stack+Developer;React+%7C+Next.js+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0E75B6&vCenter=true&width=600&lines=Full+stack+Web+Developer;HTML+CSS+Javascript+React+%7C+Next.js+Enthusiast;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
 </p>
 
 <h3>
