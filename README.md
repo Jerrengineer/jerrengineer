@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerry Nuriansyah</h1>
+<h1 align="center">Hi, I'm Jerry Nuriansyah</h1>
 
 <h3 align="center">
 Frontend Developer • Building clean and modern web experiences
