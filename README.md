@@ -5,7 +5,7 @@
 </p>
 
 <h3>
-Full Stack Developer • Building clean and modern web experiences
+Web Devlopment • Building clean and modern web experiences
 </h3>
 
 <p>
